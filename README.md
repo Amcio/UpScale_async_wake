@@ -8,11 +8,11 @@ Usage:
 3. If tfp appeared you need to reboot your phone and done!
 ### Resolutions used:
 
- - iPhone X - 2436x1125
- - iPhone 6 Plus - 1920x1080
- - iPhone 6 + Landscape - 1335x751 (minimum used for landscape to enable)
- - iPhone 6 - 1334x750
- - iPhone SE - 1136x640
+ - iPhone X.ipa - 2436x1125
+ - iPhone 6 Plus.ipa - 1920x1080
+ - iPhone 6 + Landscape.ipa - 1335x751 (minimum used for landscape to enable)
+ - iPhone 6.ipa - 1334x750
+ - iPhone SE.ipa - 1136x640
 
 **DISCLAIMER:** I do not take responsibility for any damage done to your device while using it.
 
