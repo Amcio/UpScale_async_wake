@@ -2,6 +2,7 @@
 ---
 These are compiled IPAs that change resolution of your iPhone on iOS 11.1.2 using async_wake exploit by Ian Beer
 Usage: 
+1. Pick a resolution and download an ipa. (for ex. iPhone SE ipa will change the resolution to 1136x640. and ip6 ipa will change to 1334x750
 1. Install with [Impactor](http://www.cydiaimpactor.com/)
 2. Run the app. Your phone may crash. Retry if it does
 3. If tfp appeared you need to reboot your phone and done!
