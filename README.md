@@ -9,6 +9,7 @@ Usage:
 
  - iPhone X - 2436x1125
  - iPhone 6 Plus - 1920x1080
+ - iPhone 6 + Landscape - 1335x751 (minimum used for landscape to enable)
  - iPhone 6 - 1334x750
  - iPhone SE - 1136x640
 
